@@ -5,6 +5,7 @@
 
 ### Technical Appendix
 
+Technical Appendix of the paper can be found it <tt>TechnicalAppendix.pdf</tt>.
 
 ### Datasets
 
