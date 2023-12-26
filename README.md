@@ -7,4 +7,6 @@
 
 <ol>
 <li>Cardiovascular disease dataset</li>
+<li>Bank customer churn prediction dataset</li>
+<li>Default of credit card clients dataset</li>
 </ol>
