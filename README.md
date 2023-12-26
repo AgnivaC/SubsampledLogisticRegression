@@ -22,3 +22,5 @@
 The code for l2s sampling has been sourced from <a href="https://github.com/Tim907/oblivious_sketching_varreglogreg/blob/main/sketching/l2s_sampling.py">here</a>.
 
 ### Notebooks
+
+To reproduce the experiments in the paper, run the following *Jupyter Notebooks*:
