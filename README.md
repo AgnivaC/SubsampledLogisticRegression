@@ -5,7 +5,7 @@
 
 ### Technical Appendix
 
-Technical Appendix of the paper can be found it <tt>TechnicalAppendix.pdf</tt>.
+Technical Appendix of the paper can be found in <tt>TechnicalAppendix.pdf</tt>.
 
 ### Datasets
 
