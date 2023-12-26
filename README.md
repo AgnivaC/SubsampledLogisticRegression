@@ -25,7 +25,7 @@ The code for l2s sampling has been sourced from <a href="https://github.com/Tim9
 
 To reproduce the experiments in the paper, run the following *Jupyter Notebooks*:
 <ol>
-<li>Cardiovascular disease dataset (cardio): <tt>cardio_train.csv</tt></li>
-<li>Bank customer churn prediction dataset (churn): <tt>Bank Customer Churn Prediction.csv</tt></li>
-<li>Default of credit card clients dataset (default): <tt>default of credit card clients.csv</tt></li>
+<li>For Cardiovascular disease dataset: <tt>cardio_train.ipynb</tt></li>
+<li>For Bank customer churn prediction dataset: <tt>default_of_credit_card_clients.ipynb</tt></li>
+<li>For Default of credit card clients dataset: <tt>Bank_Customer_Churn_Prediction.ipynb</tt></li>
 </ol>
