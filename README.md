@@ -33,3 +33,8 @@ To reproduce the experiments in the paper, run the following *Jupyter Notebooks*
 <li>For Bank customer churn prediction dataset: <tt>default_of_credit_card_clients.ipynb</tt></li>
 <li>For Default of credit card clients dataset: <tt>Bank_Customer_Churn_Prediction.ipynb</tt></li>
 </ol>
+
+
+</br>
+</br>
+Please contact <a href="https://agnivac.github.io/">Agniva Chowdhury</a> for questions or comments.
