@@ -1,2 +1,4 @@
 # A Provably Accurate Randomized Sampling Algorithm for Logistic Regression
- Repo of the AAAI paper
+ Code repository of the AAAI paper:
+
+
