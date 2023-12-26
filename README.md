@@ -6,7 +6,7 @@
 ### Datasets
 
 <ol>
-<li>Cardiovascular disease dataset</li>
-<li>Bank customer churn prediction dataset</li>
-<li>Default of credit card clients dataset</li>
+<li>Cardiovascular disease dataset (cardio): `cardio_train.csv </li>
+<li>Bank customer churn prediction dataset (churn): </li>
+<li>Default of credit card clients dataset (default): </li>
 </ol>
