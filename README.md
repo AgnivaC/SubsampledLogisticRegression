@@ -36,5 +36,4 @@ To reproduce the experiments in the paper, run the following *Jupyter Notebooks*
 
 
 </br>
-</br>
 Please contact <a href="https://agnivac.github.io/">Agniva Chowdhury</a> for questions or comments.
