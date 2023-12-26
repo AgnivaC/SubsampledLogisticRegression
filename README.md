@@ -10,3 +10,11 @@
 <li>Bank customer churn prediction dataset (churn): <tt>Bank Customer Churn Prediction.csv</tt></li>
 <li>Default of credit card clients dataset (default): <tt>default of credit card clients.csv</tt></li>
 </ol>
+
+
+### Codes
+
+<ol>
+<li>To compute row leverage scores of a matrix: <tt>leverage_scores.py</tt></li>
+<li>To perform leverage score, l2s, or uniform sampling: <tt>row_sampling.py</tt></li>
+</ol>
