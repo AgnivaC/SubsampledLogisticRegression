@@ -1,6 +1,6 @@
 # A Provably Accurate Randomized Sampling Algorithm for Logistic Regression
  Code repository of the paper:
 
-> Agniva Chowdhury and Pradeep Ramuhalli
+> Agniva Chowdhury and Pradeep Ramuhalli. A Provably Accurate Randomized Sampling Algorithm for Logistic Regression
 
 
