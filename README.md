@@ -11,7 +11,7 @@ Technical Appendix of the paper can be found in <tt>TechnicalAppendix.pdf</tt>.
 
 <ol>
 <li>Cardiovascular disease dataset (cardio): <tt>cardio_train.csv</tt> (sourced from <a href="https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset">here</a>)</li>
-<li>Bank customer churn prediction dataset (churn): <tt>Bank Customer Churn Prediction.csv</tt> (sourced from <a href="https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset">here</a>)</li>
+<li>Bank customer churn prediction dataset (churn): <tt>Bank Customer Churn Prediction.csv</tt> (sourced from <a href="https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction">here</a>)</li>
 <li>Default of credit card clients dataset (default): <tt>default of credit card clients.csv</tt> (sourced from <a href="https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients">here</a>)</li>
 </ol>
 
