@@ -38,9 +38,7 @@ To reproduce the experiments in the paper, run the following *Jupyter Notebooks*
 ### Citation
 
 > [@article{Chowdhury_Ramuhalli_2024,
- 
 >   title={A Provably Accurate Randomized Sampling Algorithm for Logistic Regression},
-
 >   author={Chowdhury, Agniva and Ramuhalli, Pradeep}, 
 >   volume={38}, 
 >   url={https://ojs.aaai.org/index.php/AAAI/article/view/29042}, 
@@ -51,6 +49,7 @@ To reproduce the experiments in the paper, run the following *Jupyter Notebooks*
 >   month={Mar.}, 
 >   pages={11597-11605} 
 > }]
+
 
 
 </br>
