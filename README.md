@@ -38,17 +38,18 @@ To reproduce the experiments in the paper, run the following *Jupyter Notebooks*
 ### Citation
 
 ```
-@article{Chowdhury_Ramuhalli_2024},
-title={A Provably Accurate Randomized Sampling Algorithm for Logistic Regression},
-author={Chowdhury, Agniva and Ramuhalli, Pradeep},
-volume={38},
-url={https://ojs.aaai.org/index.php/AAAI/article/view/29042},
-DOI={10.1609/aaai.v38i10.29042},
-number={10},
-journal={Proceedings of the AAAI Conference on Artificial Intelligence},
-year={2024},
-month={Mar.},
-pages={11597-11605}
+@article{Chowdhury_Ramuhalli_2024,
+  title={A Provably Accurate Randomized Sampling Algorithm for Logistic Regression},
+  author={Chowdhury, Agniva and Ramuhalli, Pradeep},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={10},
+  year={2024},
+  month={Mar.},
+  pages={11597-11605},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/29042},
+  doi={10.1609/aaai.v38i10.29042}
+}
 ```
 
 
