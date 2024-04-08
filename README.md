@@ -45,7 +45,6 @@ To reproduce the experiments in the paper, run the following *Jupyter Notebooks*
   volume={38},
   number={10},
   year={2024},
-  month={Mar.},
   pages={11597-11605},
   url={https://ojs.aaai.org/index.php/AAAI/article/view/29042},
   doi={10.1609/aaai.v38i10.29042}
